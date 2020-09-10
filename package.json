@@ -3,11 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.com/fluorspar20/search-github-repos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluorspar20/search-github-repos.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "search",
+    "repos",
+    "github",
+    "repositories"
+  ],
+  "author": "Amogh Dixit <amoghdixit104@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0"
